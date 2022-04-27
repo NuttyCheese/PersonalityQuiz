@@ -13,7 +13,7 @@ struct Question {
     static func getQuestions() -> [Question] {
         [
             Question(
-                title: "Какую пищувы вы предпочитаете?",
+                title: "Какую пищу вы вы предпочитаете?",
                 type: .single,
                 answers: [
                     Answer(title: "Стейк", animal: .dog),
